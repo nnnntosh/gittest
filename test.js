@@ -1,7 +1,7 @@
 'use strict'
 
 let a = {
- name: 'nishi toshiaki',
+ name: 'aaaaaa iiiiiii',
  tags: [1, 2, 3]
 }
 let funcA = () => {
